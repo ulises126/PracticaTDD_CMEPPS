@@ -6,7 +6,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- *
  * @author ulises126
  */
 public class CalculadoraTest {
